@@ -6,7 +6,7 @@ Run on Android OS 14.0 UpsideDownCake, on either an emulator or a physical devic
 
 Use Flutter version 3.16.8
 
-To launch app run main.dart
+To launch the app run main.dart
 
 To edit the size/complexity of the maze, change the maze resolution on line 18 in file maze_widget.dart
 
